@@ -1,0 +1,9 @@
+# FloppaSMP
+
+Fabric API: https://modrinth.com/mod/fabric-api
+
+Memory Leak Fix: https://modrinth.com/mod/memoryleakfix
+
+Lithium: https://modrinth.com/mod/lithium
+
+Starlight: https://modrinth.com/mod/starlight
