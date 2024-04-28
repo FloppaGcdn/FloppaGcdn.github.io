@@ -1,0 +1,22 @@
+{
+  "name": "ClearVision",
+  "description": "ClearVision ported to Bunny",
+  "authors": [
+    {
+      "name": "floppa_god1000",
+      "id": "1114659960656248902"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#9E8376"
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://clearvision.github.io/images/sapphire.jpg",
+    "alpha": 0.4
+  }
+}
